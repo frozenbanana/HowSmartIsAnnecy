@@ -1,0 +1,122 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	background-image: url(LacAnnecy.png) ;
+	background-size: cover;
+	height: 200px;
+}
+
+h1{
+	padding: 20px;
+	background-color: rgba(0,0,0,0.4);
+	color:white;
+	position: relative;
+	text-align: center;
+	top:75px;
+}
+body{
+	background-color:  #FAE4D9;
+}
+#Logo{
+	position: absolute;
+	right: 20px;
+	top: 20px;
+}
+
+#Barre{
+	background-color: #52B767;
+	width: cover;
+	height: 20px;
+	box-shadow: 0px 10px 15px #888888;
+}
+
+#Bas{
+	height: 60px;
+	bottom: 0px;
+	text-align: center;
+	background-color:  #52B767;
+	width: auto;
+	padding-top: 20px;
+	margin:-30px;
+}
+
+section{
+	height:800px;
+}
+
+footer{
+	box-shadow: 0px -10px 18px #888888;
+
+}
+#Menu{
+	display: inline-block;
+	position: flex;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-color: #23B604;
+	border-style: groove;
+	padding: -50px;
+	border-radius: 20px;
+	width: 150px;
+	margin-left: 80px;
+	background-color: rgba(0,0,0,0.1);
+}
+
+#Treat{
+	width: 350px;
+	margin-left: 0px;
+}
+ul{
+
+	width: 150px;
+
+}
+li{
+	border-color: #23B604;
+	border-style: groove;
+	border-radius: 20px;
+	font-size: larger;
+	text-align: center;
+	font-weight: bold;
+	background-color:  #52B767;
+	width: 130px;
+	padding: 10px;
+	display: inline-block;
+	width: 130px;
+	padding: 0px;
+	margin-top: -10px;
+	margin-bottom: -10px;
+	margin: 10px;
+}
+
+#curve_chart{
+	position: relative;
+	display: inline-block;
+	width: 900px;
+	height: 500px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+#Contenu{
+	display: inline-block;
+	position: relative;
+}
+#php{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+input:active{
+	border-color: red;
+}
+input:hover{
+	margin-top:
+	border-radius: 20px;
+	border-style: outset;
+	background-color: #6AA874;
+}
+#howsmart - id du groupe

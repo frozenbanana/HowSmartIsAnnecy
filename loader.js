@@ -19,6 +19,7 @@ function drawChart() {
   var options = {
     title: 'Company Performance',
     curveType: 'function',
+    backgroundColor: '#FAE4D9',
     legend: { position: 'bottom' }
   };
 
